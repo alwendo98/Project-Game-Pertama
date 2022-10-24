@@ -1,0 +1,8 @@
+
+*.graph
+Library/*
+Logs/*
+Temp/*
+
+.vsconfig
+*.sln
